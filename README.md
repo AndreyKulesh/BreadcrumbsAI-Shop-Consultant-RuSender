@@ -10,9 +10,9 @@
 
 ## Используемые инструменты.
 
-- [RuSender для отправки сообщений] (<https://rebus.tg>)
-- [OpenAI для ИИ-обработки] (<https://platform.openai.com>)
-- [BotFather для управления ботами в Telegram] (<https://telegram.me/botfather>)
+- [RuSender для отправки сообщений](<https://rebus.tg>)
+- [OpenAI для ИИ-обработки](<https://platform.openai.com>)
+- [BotFather для управления ботами в Telegram](<https://telegram.me/botfather>)
 
 ## Скриншоты.
 
@@ -21,7 +21,7 @@
 
 ## Перейти к боу.
 
-[Перейти к Telegram-боту] (<https://t.me/имя-бота_bot>)
+[Перейти к Telegram-боту](<https://t.me/имя-бота_bot>)
 
 ## Сценарии.
 
